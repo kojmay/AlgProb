@@ -39,3 +39,9 @@ func main() {
 	target := -10
 	fmt.Print(twoSum(nums, target))
 }
+
+func main() {
+	nums := []int{-1, 2, -3, -4, 5}
+	target := -8
+	fmt.Println(twoSum(nums, target))
+}
