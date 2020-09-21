@@ -40,7 +40,7 @@ func main() {
 	fmt.Print(twoSum(nums, target))
 }
 
-func main() {
+func main1() {
 	nums := []int{-1, 2, -3, -4, 5}
 	target := -8
 	fmt.Println(twoSum(nums, target))
